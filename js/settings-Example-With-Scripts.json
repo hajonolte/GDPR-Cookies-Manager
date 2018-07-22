@@ -43,9 +43,9 @@
     },
     "warningBox" : {
         "style" : "bottom-left",
-        "settingsText" : "Cookies Settings",
-        "acceptText" : "Accept",
-        "text" : "We use cookies!",
+        "settingsText" : "Cookie-Einstellungen",
+        "acceptText" : "akzeptieren",
+        "text" : "Wir verwenden auf unserer Website Cookies, Analysetechniken und andere Dienste, um den Internetauftritt für Sie so benutzerfreundlich wie möglich zu gestalten. Darüber hinaus werten wir und unsere Dienstleister Ihre Besuche auf unserer Website aus (Webtracking) um die Website Ihren Bedürfnissen anzupassen. Wenn Sie „einverstanden“ anklicken oder diesen Hinweis schließen, erklären Sie sich damit jederzeit widerruflich einverstanden (Artikel 6 Abs. 1 Satz 1 a DSGVO).",
         "acceptBgColor" : "",
         "acceptTextColor" : "",
         "settingsBgColor" : "",
